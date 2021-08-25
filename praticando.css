@@ -1,0 +1,26 @@
+body {
+    font: Normal 12pt Arial;
+    background: rgb(253, 236, 239);
+    text-align: center;
+    line-height: center;
+}
+
+h1, p {
+    color:purple;
+}
+
+#calculadora {
+    width: 180px;
+    height: 180px
+}
+
+input {
+    width: 80px;
+    border-radius: 3px;
+}
+
+#result, #result2, #result3, #result4 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
